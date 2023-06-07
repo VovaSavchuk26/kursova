@@ -1,0 +1,1392 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    position: relative;
+    width: 1349px;
+    height: 4613px;
+    background: #FFFFFF;
+}
+.top {
+    position: absolute;
+    width: 1349px;
+    height: 851px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #FDD588 63.02%, rgba(250, 227, 182, 0) 100%);
+}
+header
+{
+    position: absolute;
+    width: 1349px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+}
+a
+{
+    
+    color: #000000;
+    margin: 30px;
+    text-decoration: none;
+}
+.Menu
+{
+   font-family: 'Frank Ruhl Libre';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    position: absolute;
+
+height: 36px;
+left: 380px;
+top: 56px;
+}
+.FreshDIV
+{
+    margin: 0px;
+    position: absolute;
+
+left: 103px;
+top: 40px;
+}
+#Fresh
+{
+    margin: 0px;
+width: 114px;
+height: 51px;
+
+font-family: 'Franklin Gothic Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #000000;
+}
+.LogSign {
+    position: absolute;
+    width: 180px;
+    height: 40px;
+    left: 1126px;
+    top: 44px;
+}
+#log
+{
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px; ;
+    cursor: pointer;
+    font-size: 20px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(rgba(255, 226, 183, 0.818)30%,rgba(228, 201, 160, 0) );
+    border:none;
+    padding: 5px;
+    width: 85px;
+    height: 40px;
+    margin-right: 6px;
+    transition: background-color 0.3s ease;
+}
+#sign
+{
+    cursor: pointer;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px; ;
+    font-size: 20px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(rgba(255, 226, 183, 0.818)30%,rgba(228, 201, 160, 0) );
+    border:none;
+    padding: 5px;
+width: 85px;
+height: 40px;
+transition: background-color 0.3s ease;
+}
+#log:active
+{
+    background: #ccc;
+}
+#sign:active
+{
+    background: #ccc;
+}
+.content1
+{
+    position: absolute;
+    width: 1349px;
+    height: 684px;
+    left: 0px;
+    top: 167px;
+}
+#img1 {
+    position: absolute;
+    width: 436px;
+    height: 506px;
+    left: 872px;
+    background: linear-gradient(0deg, rgba(255, 91, 20, 0.06), rgba(255, 91, 20, 0.06)), url(.jpg);
+    border-radius: 0px 0px 0px 195px;
+}
+
+#title
+{
+    margin-block: 0px;
+    position: absolute;
+    width: 445px;
+    height: 220px;
+    left: 103px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 73px;
+    color: #000000;
+}
+#quote
+{
+    position: absolute;
+width: 531px;
+height: 128px;
+left: 103px;
+top: 350px;
+font-family: 'Frank Ruhl Libre';
+font-style:normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+color: #000000;
+}
+#img2
+{
+    position: absolute;
+width: 139px;
+height: 230px;
+left: 662px;
+top: 380px;
+}
+#ShopNow
+{
+cursor: pointer;
+font-family: 'Franklin Gothic Medium';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: white;
+position: absolute;
+width: 319px;
+height: 86px;
+left: 103px;
+top: 524px;
+
+background: #000000;
+border-radius: 10px;
+transition: background-color 0.3s ease;
+}
+#quadrat
+{
+    position: absolute;
+    width: 423px;
+    height: 434px;
+    left: 0px;
+    top: 750px;
+    background: linear-gradient(360deg, #FFD18D 0%, rgba(255, 250, 243, 0) 100%);
+    border-radius: 72px;
+}
+#img3 {
+    position: absolute;
+    left: -1px;
+    top: 892px;
+    width: 1349px;
+    height: 163px;
+}
+#img33
+{
+    display: none;
+}
+#title2
+{
+    position: absolute;
+    height: 120px;
+    left: 594px;
+    top: 1050px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 83px;
+    color: #000000;
+}
+.MenuProduct
+{
+    position: absolute;
+    height: 36px;
+    left: 396px;
+    top: 1220px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-size: 24px;
+    line-height: 36px;
+
+}
+.MenuProduct a :hover
+{
+    
+    text-decoration: underline;
+}
+#img4
+{
+    
+    position: absolute;
+    width: 149px;
+    height: 119px;
+    left: 36px;
+    top: 1298px;
+    
+}
+#Product
+{
+    position: absolute;
+    width: 673px;
+    height: 178px;
+    left: 336px;
+    top: 1145px;
+    
+}
+#imgPro1 {
+    position: absolute;
+    width: 318px;
+    height: 470px;
+    left: 21px;
+    top: 1440px;
+}
+#imgPro2 {
+    position: absolute;
+    width: 318px;
+    height: 470px;
+    left: 355px;
+    top: 1440px;
+}
+#imgPro3 {
+    position: absolute;
+    width: 318px;
+    height: 470px;
+    left: 687px;
+    top: 1440px;
+}
+#imgPro4 {
+    position: absolute;
+    width: 318px;
+    height: 470px;
+    left: 1020px;
+    top: 1440px;
+}
+#imgPro5
+{
+    position: absolute;
+width: 318px;
+height: 470px;
+left: 21px;
+top: 2033px;
+}
+#imgPro6
+{
+    position: absolute;
+width: 318px;
+height: 470px;
+left: 355px;
+top: 2033px;
+
+}
+#imgPro7
+{ 
+position: absolute;
+width: 318px;
+height: 470px;
+left: 687px;
+top: 2033px;
+}
+#imgPro8
+{
+    position: absolute;
+width: 318px;
+height: 470px;
+left: 1020px;
+top: 2033px;
+}
+#UndStar1 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 35px;
+    top: 1920px;
+}
+#UndStar2 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 369px;
+    top: 1920px;
+}
+#UndStar3 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 701px;
+    top: 1920px;
+}
+#UndStar4 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 1035px;
+    top: 1920px;
+}
+#UndStar5 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 35px;
+    top: 2510px;
+}
+#UndStar6 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 369px;
+    top: 2510px;
+}
+#UndStar7 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 701px;
+    top: 2510px;
+}
+#UndStar8 {
+    position: absolute;
+    width: 127.56px;
+    height: 23.62px;
+    left: 1035px;
+    top: 2510px;
+}
+
+.UndTit1 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 46px;
+    top: 1928px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell1 {
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 76px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit3 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 701px;
+    top: 1928px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell2 {
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 82px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit2{
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 386px;
+    top: 1928px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell3 {
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 79px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit4
+{
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 422px;
+    top: 1928px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell4 {
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 79px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit4 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 1055px;
+    top: 1928px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell5
+{
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 79px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit5 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 54px;
+    top: 2511px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell6
+{
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 79px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit6 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 386px;
+    top: 2511px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell7
+{
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 79px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit7 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 720px;
+    top: 2511px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#Sell8
+{
+    position: absolute;
+    width: 88px;
+    height: 41px;
+    left: 79px;
+    top: 28px;
+    color: #C4C4C4;
+}
+.UndTit8 {
+    position: absolute;
+    width: 187px;
+    height: 75.32px;
+    left: 1055px;
+    top: 2511px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #000000;
+}
+#UdrTitPro8
+{
+    font-family: 'Franklin Gothic Medium';
+    width: 212px;
+}
+.action {
+    position: absolute;
+    width: 1194px;
+    height: 615px;
+    left: 23px;
+    top: 2702px;
+    background: #FAE3B6;
+    border-radius: 20px;
+}
+#titleAct
+{
+    position: absolute;
+    width: 490px;
+    height: 93px;
+    left: 126px;
+    margin-block:0px ;
+    top: 50px;
+    font-family: 'Franklin Gothic Medium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 83px;
+    color: #000000;    
+}
+#quoteAct
+{
+    position: absolute;
+    width: 569px;
+    height: 89px;
+    left: 126px;
+    top: 100px;
+    font-family: 'Frank Ruhl Libre';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    
+    color: #000000;
+}
+#imgAct
+{
+position: absolute;
+left: 809px;
+top: 30px;
+background: #FAE3B6;
+border-radius: 20px;
+}
+#daysDIV, #hoursDIV, #minDIV {
+    border-radius: 5px;
+    width: 104px;
+    height: 104px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background: white;
+    margin: 10px 13px;
+    transform: translateY(364px) translateX(106px);
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 60px;
+}
+#ImgCom {
+    width: 75.12px;
+    height: 76px;
+    transform: translateX(423px);
+    border-radius: 50%;
+    border: none;
+}
+    
+    #days,
+    #hours,
+    #minutes {
+      text-align: center;
+      margin: 0;
+      font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 21px;
+font-family: fantasy;
+color: #000000;
+
+    }
+    .TitDay,
+    .TitHour,
+    .TitMin
+    {
+        font-family: 'Franklin Gothic Medium';
+      position: absolute;
+      margin-top: 39px;
+    }
+    #counter
+    {
+        display: flex;
+    }
+#ShopNow2
+{
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+    color: white;
+    position: absolute;
+width: 319px;
+height: 86px;
+bottom: 30px;
+left: 126px;
+background: #000000;
+border-radius: 10px;
+}
+#TitFeedbacks
+{
+    position: relative;
+    text-align: center;
+    top: 3349px;
+    font-family: 'Franklin Gothic Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 83px;
+transition: background-color 0.3s ease;
+}
+#quoteCom {
+    position: relative;
+    top: 3281px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Frank Ruhl Libre';
+}
+#Dote2 {
+    position: absolute;
+    bottom: 30px;
+    left: 599px;
+}
+.wrapper {
+    position: absolute;
+    top: 3550px;
+    left: 154px;
+    width: 773px;
+    padding-top: 20px;
+    text-align: center;
+}
+  #slaide
+  {
+    font-family: monospace;
+  }
+  .slick-initialized .slick-slide {
+    display: block;
+    height: 460px;
+    background: bisque;
+}
+
+  .slick-slide {
+    margin: 10px;
+  }
+  
+  .slick-slide img {
+    width: 100%;
+    border: 2px solid #fff;
+  }
+  
+  .wrapper .slick-dots li button:before {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .slick-prev:before,
+  .slick-next:before {
+    font-family: 'slick';
+    font-size: 40px;
+    line-height: 1;
+    opacity: 0.75;
+    color: #6e6e6e;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .slick-prev {
+    left: -61px;
+  }
+  .slick-next {
+    right: -41px;
+  }
+  
+  .carousel {
+    width: 1044px;
+    margin: 0px auto;
+  }
+  .slick-initialized .slick-slide {
+    display: block;
+    background: bisque;
+  }
+  .slick-list {
+    padding: 0px 294px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 0px;
+    width: 1349px;
+    height: 517px;
+}
+.bottom {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    height: 273px;
+    left: 0px;
+    background: #000000;
+}
+#footImg4 {
+    position: absolute;
+    left: 1011px;
+    background: url(.jpg), #BFA885;
+    top: 0px;
+    height: 244px;
+    width: 337.5px;
+}
+#footImg3 {
+    position: absolute;
+    top: 0px;
+    height: 244px;
+    width: 337.5px;
+    left: 673px;
+    background: url(images/FootImg1.png), #FFF6E6;
+}
+#footImg2 {
+    position: absolute;
+    width: 337.5px;
+    top: 0px;
+    height: 244px;
+    left: 337px;
+    background: url(.jpg), #FAE3B6;
+}
+#footImg1 {
+    width: 337.5px;
+    top: 0px;
+    height: 244px;
+    position: absolute;
+    left: 0px;
+    background: url(.jpg), #BFA885;
+}
+#inst {
+    cursor: pointer;
+    position: relative;
+    width: 638px;
+    height: 128px;
+    left: 356px;
+    top: -24%;
+    background: rgba(247, 232, 232, 0.9);
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 42px;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+#ShopNow:active 
+{
+    background-color: #ccc;
+}
+#ShopNow2:active 
+{
+    background-color: #ccc;
+}
+#inst:active 
+{
+    background-color: #313131;
+}
+.LinkBottom {
+    position: absolute;
+    width: 444px;
+    height: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    top: 105px;
+    left: 453px;
+}
+.LinkBottom a
+{
+    margin: 7px;
+    color: #FFFFFF;
+}
+#textBott {
+    position: absolute;
+    color: #FFFFFF;
+    width: 265px;
+    left: 542.5px;
+    top: 172px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 36px;
+}
+#coment {
+    text-align: justify;
+    width: 574px;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    transform: translateX(90px);
+}
+#TitleComents
+{
+    font-family:'Franklin Gothic Medium' ;
+    font-size: 25px; 
+    font-weight: 600;
+}
+#Users {
+    font-size: 18px;
+    font-weight: 1000;
+}
+
+@media (max-width:420px)
+{
+    body, html 
+{
+    overflow-x: hidden;
+    
+}
+#ShopNow, #ShopNow2
+{
+    border: none;
+} 
+    a
+    {
+        margin: 10px;
+    }
+    body {
+        width: 420px;
+        height: 1613px;
+    }
+    .top
+    {
+        width:420px;
+        height: 280px;
+    }
+    header
+    {
+        height:80px;
+    }
+    .Menu
+    {
+        left: 37px;
+        font-size: 14px;
+        top: 45px;
+    }
+    .FreshDIV
+    {
+        left: 15px;
+        top: 0px;
+    }
+
+    #Fresh
+    {
+        font-size: 27px;
+    }
+    .LogSign
+    {
+    width: 140px;
+    height: 25px;
+    left: 250px;
+    top: 10px;
+    }
+    #log
+    {
+        height: 25px;
+        width: 55px;
+        font-size: 13px;
+        padding: 1px;
+    }
+    #sign
+    {
+        height: 25px;
+        width: 55px;
+        font-size: 13px;
+        padding: 1px;
+    }
+    .content1
+    {
+        top:90px;
+        width: 414px;
+        height: 130px;
+    }
+    #title
+    {
+        width: 250px;
+        left: 15px;
+        font-size:24px ;
+        height: auto;
+        line-height: normal;
+    }
+    #img1
+    {
+        width: 109px;
+        height: 126.5px;
+        left: 285px;
+        border-radius: 0px 0px 0px 48.5px;
+    }
+    #quote
+    {
+        font-size: 12px;
+        width: 220px;
+        height: auto;
+        left: 15px;
+        top: 56px;
+        line-height: normal;
+    }
+    #img2
+    {
+        left: 234px;
+        width:45px;
+        height:70px;
+        top: 90px;
+        line-height: normal;
+
+    }
+    #ShopNow
+    {
+        left: 35px;
+        top: 137px;
+        width: 80px;
+        height: 23px;
+        border-radius: none;
+        font-size: 8px;
+        line-height: normal;
+        font-weight: normal;
+    }
+    #quadrat
+    {
+    position: absolute;
+    width: 96.25px;
+    height: 105.5px;
+    left: 0px;
+    top: 250px;
+    background: linear-gradient(360deg, #FFD18D 0%, rgba(255, 250, 243, 0) 100%);
+    border-radius: 18px;
+    }
+    #img3
+    {
+        display: none;
+    }
+    #img33
+    {
+        display: block;
+        position: absolute;
+        top: 270px;
+        left:0px;
+        height: 43px;
+        width: 414px;
+    }
+    #title2
+    {
+        left: 135px;
+        top: 280px;
+        font-size: 24px;
+    }
+    .MenuProduct
+    {
+        top: 352px;
+        left: 70px;
+        font-size: 10px;
+    }
+    .MenuProduct a
+    {
+        margin: 10px;
+    }
+    #img4
+    {
+        top: 390px;
+        left: 5px;
+        width: 55px;
+        height: 40px;
+    } 
+    #Product
+    {
+        left: 0px;
+    }
+    #imgPro1
+    {
+        left: 7px;
+        top: 435px;
+        width: 92.25px;
+        height: 140px;
+    }
+    
+    #imgPro2
+    {
+        left: 104.25px;
+        top: 435px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #imgPro3
+    {
+        left: 203.5px;
+        top: 435px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #imgPro4
+    {
+        left: 302px;
+        top: 435px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #imgPro5
+    {
+        left: 7px;
+        top: 637px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #imgPro6
+    {
+        left: 104.25px;
+        top: 637px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #imgPro7
+    {
+        left: 203.5px;
+        top: 637px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #imgPro8
+    {
+        left: 302px;
+        top: 637px;
+        width: 92.25px;
+        height: 140px;
+    }
+    #UndStar1
+    {
+        left: -19px;
+        transform: scaleX(0.6)scaleY(0.6);
+        top: 578px;
+    }
+    .UndTit1
+    {
+        top: 570px;
+        transform: scaleX(0.6) scaleY(0.6);
+        left: -24px;
+    }
+    #UndStar2
+    {
+        transform: scaleX(0.6)scaleY(0.6);
+        top: 578px;
+        left: 79px;
+    }
+    .UndTit2
+    {
+        top: 570px;
+        transform: scaleX(0.5) scaleY(0.5);
+        left: 66px;
+    }
+    #UndStar3
+    {
+        transform: scaleX(0.6)scaleY(0.6);
+        top: 578px;
+        left: 177px;
+    
+    }
+    .UndTit3
+    {
+        top: 570px;
+    transform: scaleX(0.5) scaleY(0.5);
+    left: 164px;
+    }
+    #UndStar4
+    {
+        transform: scaleX(0.6)scaleY(0.6);
+        top: 578px;
+        left: 278px;
+    
+    }
+    .UndTit4
+    {
+        top: 570px;
+    transform: scaleX(0.5) scaleY(0.5);
+    left: 262px;
+    }
+    #UndStar5
+    {
+        top: 780px;
+        left: -19px;
+        transform: scaleX(0.6)scaleY(0.6);
+    }
+    .UndTit5
+    {
+        top: 768px;
+    transform: scaleX(0.5) scaleY(0.5);
+    left: -24px;
+    }
+    #UndStar6
+    {
+        top: 780px;
+        left: 79px;
+        transform: scaleX(0.6)scaleY(0.6);
+    }
+    .UndTit6
+    {
+        top: 768px;
+    transform: scaleX(0.5) scaleY(0.5);
+        left: 66px;
+    }
+    #UndStar7
+    {
+        top: 780px;
+        left: 177px;
+        transform: scaleX(0.6)scaleY(0.6);
+    }
+    .UndTit7
+    {
+        left: 164px;
+        top: 768px;
+    transform: scaleX(0.5) scaleY(0.5);
+    }
+    #UndStar8
+    {
+        top: 780px;
+        left: 278px;
+        transform: scaleX(0.6)scaleY(0.6);
+    }
+    .UndTit8
+    {
+        left: 262px;
+        top: 768px;
+    transform: scaleX(0.5) scaleY(0.5);
+    }
+    #daysDIV, #hoursDIV, #minDIV {
+        border-radius: 5px;
+        width: 45px;
+        height: 39px;
+        
+        margin: 10px 2px;
+        transform: translateY(105px) translateX(13px);
+        font-style: normal;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 60px;
+    }
+    .TitDay, .TitHour, .TitMin {
+        margin-top: -23px;
+    }
+    #days, #hours, #minutes {
+        text-align: center;
+        margin: 0;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        font-family: fantasy;
+        color: #000000;
+    }
+    .action {
+        left: 15px;
+        top: 832px;
+        width: 340px;
+        height: 222.25px;
+    }
+    #Dote2 {
+        left: 34px;
+        top: 83px;
+        width: 340px;
+        height: 202.25px;
+        transform: scaleX(0.2) scaleY(0.3);
+    }
+    #titleAct
+    {
+        top: -10px;
+        left: 15px;
+        font-size: 24px;
+    }
+    #quoteAct
+    {
+        top: 50px;
+        left: 15px;
+        font-size: 10px;
+        width: 200px;
+        line-height: 15px;
+    }
+    #imgAct
+    {
+        top: 15px;
+        left: 232.75px;
+        width: 92.25px;
+        height: 122.25px;
+        border-radius: 10px;
+    }
+    #ShopNow2
+    {
+        left: 15px;
+        bottom: 15px;
+        width: 80px;
+        height: 23px;
+        border-radius: none;
+        font-size: 8px;
+        line-height: normal;
+        font-weight: normal;
+    }
+    #TitFeedbacks {
+        text-align: center;
+        top: 1021px;
+        font-size: 24px;
+    }
+    #quoteCom {
+        width: 398px;
+        top: 971px;
+        left: 2px;
+        font-size: 15px;
+        text-align: center;
+        line-height: 23px;
+    }
+    #TitleComents {
+        transform: translateY(10px)translateX(78px);
+        width: 350px;
+    }
+    .carousel {
+        width: 618px;
+        margin: 0px auto;
+    }
+    .wrapper {
+        position: absolute;
+        top: 1017px;
+        left: 0px;
+        width: 758px;
+        padding-top: 20px;
+        text-align: center;
+        transform: scaleY(0.9) scale(0.5) translateX(-374px);
+    }
+    #coment {
+        text-align: justify;
+        width: 417px;
+        font-size: 24px;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 31px;
+        transform: translateX(45px) translateY(-22px);
+    }
+    #ImgCom {
+        width: 91.12px;
+        height: 96px;
+        transform: translateX(202px) translateY(-69px);
+    }
+    #Users {
+        font-size: 23px;
+        font-weight: 1000;
+        transform: translateY(-89px) translateX(-1px);
+    }
+    #role {
+        font-size: 21px;
+        font-weight: 600;
+        transform: translateY(-114px) translateX(0px);
+    }
+    .LinkBottom a {
+        margin: 3px;
+    }
+    #textBott
+    {
+        width: 257px;
+    left: 100px;
+    top: 44px;
+    font-weight: 600;
+    font-size: 11px;
+    }
+    .footer {
+    width: 420px;
+    height: 125px;
+    }
+    .bottom {
+        height: 125px;
+    }
+    .LinkBottom
+    {
+        top: 27px;
+    left: 83px;
+    font-size: 12px;
+    }
+    .textBott
+    {
+        top: 15px;
+        left: 0px;
+        font-size: 15px;
+    }
+    #footImg1 {
+        top: -164px;
+        left: -118px;
+        transform: scaleX(0.3) scaleY(0.35);
+    }
+    #footImg3 {
+        top: -158px;
+        transform: scaleX(0.3) scaleY(0.4);
+        left: 83px;
+    }
+    #footImg2 {
+        top: -164px;
+        left: -18px;
+        transform: scaleX(0.3) scaleY(0.35);
+    }
+    #footImg4 {
+    transform: scaleX(0.3) scaleY(0.35);
+    top: -164px;
+    left: 166px;
+    }
+    #inst {
+        left: -130px;
+        transform: scaleX(0.3) scaleY(0.3);
+        top: -63px;
+        font-size: 32px;
+    }
+}
